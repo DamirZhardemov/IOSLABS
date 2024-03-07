@@ -1,5 +1,6 @@
 import 'dart:math';
-//LAB 2-TASK 1
+
+// //LAB 2-TASK 1
 // class BankAccount {
 //   final String accountNumber;
 //   final String accountOwner;
@@ -14,7 +15,8 @@ import 'dart:math';
 //       return;
 //     }
 //     _balance += amount;
-//     print("Пополнение на сумму $amount выполнено успешно. Новый баланс: $_balance");
+//     print(
+//         "Пополнение на сумму $amount выполнено успешно. Новый баланс: $_balance");
 //   }
 
 //   void withdraw(double amount) {
@@ -26,7 +28,8 @@ import 'dart:math';
 //       _balance -= amount;
 //       print("Снятие суммы $amount выполнено успешно. Новый баланс: $_balance");
 //     } else {
-//       print("Ошибка: Недостаточно средств на счете. Сумма снятия превышает текущий баланс.");
+//       print(
+//           "Ошибка: Недостаточно средств на счете. Сумма снятия превышает текущий баланс.");
 //     }
 //   }
 
